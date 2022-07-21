@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranay Roni</h1>
+<img alt="banner" width="1000" src="./banner.png">
 <h3 align="center">CS Student @ Rutgers University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayroni&label=Profile%20views&color=0e75b6&style=flat" alt="pranayroni" /> </p>
