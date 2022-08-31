@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranayroni&label=Profile%20views&color=0e75b6&style=flat" alt="pranayroni" /> </p>
 
-- 🔭 I’m currently working on [typingtest](https://github.com/pranayroni/typingtest)
+- 🔭 I’m currently working on [a Rutgers Textbook Bot](https://github.com/pranayroni/rutgerstextbookbot)
 
 - 🌱 I’m currently learning **🅰️ngular**
 
