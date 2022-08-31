@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **🅰️ngular**
 
-- 👨‍💻 All of my projects are available at [https://pranayroni.tech](https://pranayroni.tech)
+- 👨‍💻 My portfolio is available at [https://pranayroni.tech](https://pranayroni.tech)
 
 - 📫 How to reach me **pranay.roni@icloud.com**
 
