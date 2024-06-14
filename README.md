@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning 🅰️ngular  
   
 
-- 👨‍💻 My portfolio is available at https://pranayroni.tech  
+- 👨‍💻 My portfolio is available at https://pranayroni.dev  
   
 
 - ⚡ Fun fact I love penguins.  
