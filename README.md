@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Pranay, a Student @ Rutgers and Software Engineer👨‍💻 </div>  
+### <div align="center">I'm Pranay, self taugh Software Engineer, Student @ Rutgers and Machine Learning Engineer @ Knipper👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on a [Rutgers Textbook Bot](https://github.com/pranayroni/rutgerstextbookbot)  
